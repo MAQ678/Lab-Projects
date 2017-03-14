@@ -5,6 +5,7 @@
 
 %token KEY ID INT FLOAT EXPO CMT2 STR RELOP ASSIGNOP DOTDOT ADDOP MULOP
 
+
 %%
 	s: KEY {printf(" Key \n");}
 	 | ID {printf(" Id \n");}

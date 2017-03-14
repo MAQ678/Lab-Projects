@@ -11,6 +11,7 @@ digit [0-9]
 keyword "program"|"if"|"not"|"end"|"begin"|"else"|"then"|"do"|"while"|"function"|"Procedure"|"integer"|"real"|"var"|"oh"|"array"|"write"
 
 
+
 %%
 [ \t]+ 
 
